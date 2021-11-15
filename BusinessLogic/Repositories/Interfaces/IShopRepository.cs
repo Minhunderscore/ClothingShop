@@ -2,5 +2,6 @@
 {
     public interface IShopRepository
     {
+        public void Testing();
     }
 }
